@@ -101,15 +101,6 @@ The code includes comments and function docstrings that explain the purpose of e
 - `display_results()` prints the results for the user.
 - `main()` runs the program.
 
-## GitHub Submission Instructions
-
-For the GitHub repository submission:
-
-1. Create a new public repository on GitHub.
-2. Upload `password_strength_analyzer.py` and `README.md`.
-3. Do not upload passwords, API keys, or private information.
-4. Copy the repository URL and submit it to the instructor.
-
 Repository Link:
 
 ```text
