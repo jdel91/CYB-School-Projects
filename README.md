@@ -113,5 +113,5 @@ For the GitHub repository submission:
 Repository Link:
 
 ```text
-[https://github.com/jdel91/CYB-School-Projects]
+https://github.com/jdel91/CYB-School-Projects
 ```
