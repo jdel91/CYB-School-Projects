@@ -51,7 +51,7 @@ README.md
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/your-username/password-strength-analyzer.git
+git clone https://github.com/jdel91/password-strength-analyzer.git
 ```
 
 2. Open the project folder.
@@ -113,7 +113,5 @@ For the GitHub repository submission:
 Repository Link:
 
 ```text
-https://github.com/your-username/password-strength-analyzer
+https://github.com/jdel91/password-strength-analyzer
 ```
-
-Replace `your-username` with your actual GitHub username.
